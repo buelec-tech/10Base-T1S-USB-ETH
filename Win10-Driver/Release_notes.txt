@@ -1,0 +1,8 @@
+HDN-VDO MC10T1S USB Windows Driver
+------------------------------
+
+V2.23.5.1:
+----------
+	1. Transmit Opportunity (TO) timer configuration (User can configure this parameter).
+	2. Automatically disable/enable collision detection when PLCA is enabled/disabled.
+	3. Enabling activity LED,Orange LED flash when data link.
